@@ -1,2 +1,2 @@
-# WhatsAppInfoBot
-In development
+# WhatsApp Information Bot
+In development...
