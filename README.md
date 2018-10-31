@@ -1,2 +1,2 @@
-# __W__hats__A__pp __I__nformation __B__ot - UAIBot
+# **W**hats**A**pp **I**nformation **B**ot - UAIBot
 In development...
