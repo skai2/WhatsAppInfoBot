@@ -1,0 +1,3 @@
+[submodule "whatsapp-framework"]
+	path = whatsapp-framework
+	url = https://github.com/danielcardeenas/whatsapp-framework.git
