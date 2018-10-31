@@ -1,2 +1,2 @@
-# WhatsApp Information Bot - WAIBot
+# __W__hats__A__pp __I__nformation __B__ot - UAIBot
 In development...
