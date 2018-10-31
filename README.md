@@ -1,2 +1,2 @@
-# WhatsApp Information Bot
+# WhatsApp Information Bot - WAIBot
 In development...
