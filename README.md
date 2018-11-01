@@ -5,7 +5,7 @@ The bot is in development as a module for the WhatsApp framework [mac](https://g
 
 _Requires **Python 3.5** and **pip3**_
 
-# Setup:
+### Setup:
 1. Clone this repository with submodules
 ```sh
 > git clone https://github.com/skai2/UaiBot.git
