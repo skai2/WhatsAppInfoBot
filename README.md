@@ -3,7 +3,7 @@
 
 
 
-### Setup:
+## Setup:
 _Requires **Python 3.5** and **pip3**_
 1. Clone this repository with submodules
 ```sh
