@@ -1,11 +1,10 @@
 # Uai Bot :point_up::open_mouth::grey_question:
- **W**hats**A**pp **I**nformation **B**ot, or, reading the acronym "WAI" Bot in portuguese, "Uai" Bot, is a WhatsApp bot aiming to reduce misinformation by providing complementary information sources for news it detects sent through the app.
+ **W**hats**A**pp **I**nformation **B**ot, or, reading the acronym "WAI" Bot in portuguese, "Uai" Bot, is a WhatsApp bot aiming to reduce misinformation by providing complementary information sources for news it detects sent through the app. The bot is in development as a module for the WhatsApp framework [mac](https://github.com/danielcardeenas/whatsapp-framework)
 
-The bot is in development as a module for the WhatsApp framework [mac](https://github.com/danielcardeenas/whatsapp-framework)
 
-_Requires **Python 3.5** and **pip3**_
 
 ### Setup:
+_Requires **Python 3.5** and **pip3**_
 1. Clone this repository with submodules
 ```sh
 > git clone https://github.com/skai2/UaiBot.git
