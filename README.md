@@ -3,7 +3,7 @@
 
 The bot is in development as a module for the WhatsApp framework [mac](https://github.com/danielcardeenas/whatsapp-framework)
 
-_This needs **Python 3.5**_
+_Requires **Python 3.5** and **pip3**_
 
 # Setup:
 1. Clone this repository with submodules
